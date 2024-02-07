@@ -26,8 +26,8 @@ export default defineConfig({
                 collapsed: false,
                 link: "/migration",
                 items: [
-                    {text: "DCRefresher", link: "/migration.html#dcrefresher를-백업"},
-                    {text: "DCRefresher Reborn", link: "/migration.html#dcrefresher-reborn을-백업-복원-deprecated"}
+                    {text: "DCRefresher", link: "/migration#dcrefresher를-백업"},
+                    {text: "DCRefresher Reborn", link: "/migration#dcrefresher-reborn을-백업-복원-deprecated"}
                 ]
             },
             {
@@ -37,10 +37,19 @@ export default defineConfig({
                 items: [
                     {text: "공앱 메모 변환", link: "/utils/convert-memo"},
                 ]
+            },
+            {
+                text: "개발 문서",
+                collapsed: false,
+                link: "/development/getting-started.md",
+                items: [
+                    {text: "개발", link: "/development/development"},
+                ]
             }
         ],
         socialLinks: [
-            {icon: "github", link: "https://github.com/green1052/DCRefresher-Reborn"}
+            {icon: "github", link: "https://github.com/green1052/DCRefresher-Reborn"},
+            {icon: "discord", link: "https://discord.gg/SSW6Zuyjz6"},
         ]
     }
 });
