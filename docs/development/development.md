@@ -43,11 +43,11 @@ pnpm build:mv3
 
 ### 애플리케이션
 
-![구조](https://user-images.githubusercontent.com/32066651/103604514-adffc600-4f54-11eb-9486-39b1441883db.png)
+![구조](/a.webp)
 
 ### 확장 내부
 
-![app](https://user-images.githubusercontent.com/32066651/103624731-49a52c80-4f7d-11eb-854c-3327434f726b.png)
+![app](/b.webp)
 
 # 모듈 개발
 
@@ -197,7 +197,7 @@ IP 값을 읽고 통신사나 회사 정보를 IP와 함께 적어 반환합니�
 
 페이지의 한 요소 (여기서는 갤러리 대문)를 제거한다고 가정해봅시다.
 
-![image](https://user-images.githubusercontent.com/32066651/103629509-bde2ce80-4f83-11eb-97f5-7b1fbdaa6982.png)
+![image](/c.webp)
 
 #### module.func 작성
 
