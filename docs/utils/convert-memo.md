@@ -11,7 +11,7 @@ const generateColor = () => {
 };
 
 const convert = () => {
-     const lines = input.value.split("\n");
+    const lines = input.value.split("\n");
     
     const result= {
         UID: {},
@@ -29,7 +29,7 @@ const convert = () => {
                 result["IP"][id] = {
                     text: memo,
                     color: generateColor()
-                }
+                };
 
                 continue;
             }
