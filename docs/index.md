@@ -6,8 +6,6 @@ hero:
   tagline: 디시인사이드 개선 확장 프로그램
   image:
     src: /logo.webp
-    alt: DCRefresher Reborn
-
   actions:
     - theme: brand
       text: 시작하기
