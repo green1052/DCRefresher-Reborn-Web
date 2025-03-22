@@ -23,7 +23,7 @@ DCRefresher의 설정을 DCRefresher Reborn으로 이전하는 방법을 설명�
 
 1. DCRefresher에서 아래의 코드를 실행하고 나온 내용을 복사하세요.
 
-```js
+```javascript
 chrome.storage.sync.get(null, (settings) => {
     const result = {};
 

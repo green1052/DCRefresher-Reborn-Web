@@ -21,7 +21,9 @@ export default defineConfig({
                 text: "기능",
                 collapsed: false,
                 link: "/features",
-                items: []
+                items: [
+                    {text: "차단", link: "/features/block"}
+                ]
             },
             {
                 text: "유틸",
