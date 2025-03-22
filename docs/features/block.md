@@ -2,7 +2,11 @@
 description: DCRefresher Reborn의 차단 기능을 설명합니다.
 ---
 
-# 차단 모드
+# 차단
+
+DCRefresher Reborn의 차단 기능을 설명합니다.
+
+## 차단 모드
 
 - 일치 (SAME): 일치하는 경우 차단합니다.
 - 포함 (CONTAIN): 포함되어 있는 경우 차단합니다.
