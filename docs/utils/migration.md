@@ -2,7 +2,7 @@
 description: DCRefresher의 설정을 DCRefresher Reborn으로 이전하는 방법을 설명합니다.
 ---
 
-# 설정 마이그레이션
+# 데이터 이전
 
 DCRefresher의 설정을 DCRefresher Reborn으로 이전하는 방법을 설명합니다.
 
