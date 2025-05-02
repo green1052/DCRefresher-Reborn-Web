@@ -22,7 +22,18 @@ export default defineConfig({
                 collapsed: false,
                 link: "/features",
                 items: [
-                    {text: "차단", link: "/features/block"}
+                    {text: "컨텐츠 차단", link: "/features/block"},
+                    {text: "데이터 관리", link: "/features/data"},
+                    {text: "폰트 교체", link: "/features/fonts"},
+                    {text: "이미지 검색", link: "/features/imagesearch"},
+                    {text: "레이아웃 수정", link: "/features/layout"},
+                    {text: "관리", link: "/features/manage"},
+                    {text: "미리보기", link: "/features/preview"},
+                    {text: "글 목록 새로고침", link: "/features/refresh"},
+                    {text: "자짤", link: "/features/selfimage"},
+                    {text: "스텔스 모드", link: "/features/stealth"},
+                    {text: "유저 정보", link: "/features/userinfo"},
+                    {text: "글쓰기", link: "/features/write"}
                 ]
             },
             {
