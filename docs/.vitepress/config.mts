@@ -6,6 +6,7 @@ export default defineConfig({
     description: "디시인사이드 개선 확장 프로그램",
     cleanUrls: true,
     metaChunk: true,
+    lastUpdated: true,
     themeConfig: {
         logo: "/logo.webp",
         sidebar: [
