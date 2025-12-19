@@ -60,5 +60,8 @@ export default defineConfig({
             {icon: "github", link: "https://github.com/green1052/DCRefresher-Reborn"},
             {icon: "discord", link: "https://discord.gg/SSW6Zuyjz6"}
         ]
+    },
+    sitemap: {
+        hostname: "https://dcrefresher.green1052.com"
     }
 });
