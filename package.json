@@ -6,7 +6,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "typescript": "^6.0.2",
+    "typescript": "^6.0.3",
     "vitepress": "^1.6.4"
   }
 }
